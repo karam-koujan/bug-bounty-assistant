@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
-    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^16.3.3",
     "@types/better-sqlite3": "^9.6.0",
     "@types/node": "^20",
