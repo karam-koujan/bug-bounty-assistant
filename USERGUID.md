@@ -149,7 +149,7 @@ The app can work with three kinds of providers:
    ```
    AI_PROVIDER=generic
    AI_BASE_URL=https://openrouter.ai/api/v1
-   AI_API_KEY=api-key-example
+   AI_API_KEY=your-openrouter-api-key-here
    AI_MODEL=nvidia/nemotron-3.5-lightning:free
    ```
 2. **Restart the dev server** (`npm run dev` after `nvm use 22`).
