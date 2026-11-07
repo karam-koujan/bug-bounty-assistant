@@ -5,6 +5,7 @@ dev.db-wal
 backups/
 
 # Environment and build artifacts (local configuration)
+.env.example
 .env.local
 .next/
 
